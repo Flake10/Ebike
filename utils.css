@@ -1,0 +1,52 @@
+@media only screen and (max-width: 760px) {
+		#i1{
+			position:relative;
+			right:100%;
+			width:30%;
+		}
+		#ha{
+			margin-left:130px;
+			margin-top:-108px;
+		}
+		.hd{
+			position:relative;
+			left:0px;
+		}
+		#he{
+			position:relative;
+			left:2px;
+			margin-top:20px; 
+		}
+		.box{
+			position:relative;
+			left:-5px;
+		}
+		.img1{
+			width:100%;
+		}
+		#i2{
+			position:relative;
+			left:99px;
+			width:75%;
+		}
+		#i3{
+			position:relative;
+			left:0;
+			width:75%;
+		}
+		table{
+			width:100%;
+		}
+	}	
+	@media only screen and (min-width: 760px) {
+		
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+	
+		}
+	}
